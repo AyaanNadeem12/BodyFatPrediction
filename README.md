@@ -72,8 +72,20 @@ bodyfat-predictor/
 └── .gitignore
 ```
 ---
+## Roadmap  
+- [x] Collect and analyze the Body Fat dataset  
+- [x] Perform EDA (visualize correlations, trends, and distributions)  
+- [x] Train and evaluate a Linear Regression model  
+- [x] Save trained model as `.pkl` using Joblib  
+- [x] Build a CLI prediction app for quick testing  
+- [ ] Add a Streamlit web app for a user-friendly UI  
+- [ ] Implement model comparison (Random Forest, XGBoost)  
+- [ ] Containerize project with Docker for easy deployment   
+
+---
 ## License
 
 
 This project is open-source and available under the [MIT License](LICENSE).
+
 
