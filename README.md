@@ -1,7 +1,7 @@
 # 🔥 Body Fat Percentage Predictor
 
 Predict **Body Fat Percentage** from body measurements with a highly accurate Linear Regression model trained on the [Body Fat Dataset](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset).  
-This project demonstrates **end-to-end ML workflow**: data analysis, model training, evaluation, and a simple CLI-based prediction app.
+This project demonstrates **end to end ML workflow**: data analysis, model training, evaluation, and a simple CLI-based prediction app.
 
 ---
 
@@ -73,5 +73,6 @@ bodyfat-predictor/
 ```
 ---
 ## License
+
 
 This project is open-source and available under the [MIT License](LICENSE).
