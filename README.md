@@ -13,9 +13,9 @@ This project demonstrates **end to end ML workflow**: data analysis, model train
 ---
 
 ## Model Performance 
-**R² Score:** 0.99
-**Mean Squared Error:** 0.38  
-**Root Mean Squared Error:** 0.61 
+- **R² Score:** 0.99
+- **Mean Squared Error:** 0.38  
+- **Root Mean Squared Error:** 0.61 
 
 ---
 
@@ -76,3 +76,4 @@ bodyfat-predictor/
 
 
 This project is open-source and available under the [MIT License](LICENSE).
+
